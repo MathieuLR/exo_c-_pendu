@@ -1,0 +1,6 @@
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\Exercices - installation\conversion binaire  hexa tableau\bin\Debug\conversion binaire  hexa tableau.exe.config
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\Exercices - installation\conversion binaire  hexa tableau\bin\Debug\conversion binaire  hexa tableau.exe
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\Exercices - installation\conversion binaire  hexa tableau\bin\Debug\conversion binaire  hexa tableau.pdb
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\Exercices - installation\conversion binaire  hexa tableau\obj\Debug\conversion binaire  hexa tableau.csprojResolveAssemblyReference.cache
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\Exercices - installation\conversion binaire  hexa tableau\obj\Debug\conversion binaire  hexa tableau.exe
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\Exercices - installation\conversion binaire  hexa tableau\obj\Debug\conversion binaire  hexa tableau.pdb

@@ -1,0 +1,6 @@
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\Exercices - installation\ConsoleApplication9\bin\Debug\ConsoleApplication9.exe.config
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\Exercices - installation\ConsoleApplication9\bin\Debug\ConsoleApplication9.exe
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\Exercices - installation\ConsoleApplication9\bin\Debug\ConsoleApplication9.pdb
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\Exercices - installation\ConsoleApplication9\obj\Debug\ConsoleApplication9.exe
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\Exercices - installation\ConsoleApplication9\obj\Debug\ConsoleApplication9.pdb
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\Exercices - installation\ConsoleApplication9\obj\Debug\tableau complet_exo 2.csprojResolveAssemblyReference.cache

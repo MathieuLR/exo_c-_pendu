@@ -1,0 +1,6 @@
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\Exercices - installation\exo pendu\bin\Debug\exo pendu.exe.config
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\Exercices - installation\exo pendu\bin\Debug\exo pendu.exe
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\Exercices - installation\exo pendu\bin\Debug\exo pendu.pdb
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\Exercices - installation\exo pendu\obj\Debug\exo pendu.csprojResolveAssemblyReference.cache
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\Exercices - installation\exo pendu\obj\Debug\exo pendu.exe
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\Exercices - installation\exo pendu\obj\Debug\exo pendu.pdb

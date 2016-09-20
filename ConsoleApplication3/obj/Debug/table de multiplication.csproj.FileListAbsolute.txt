@@ -1,0 +1,6 @@
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\Exercices - installation\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\Exercices - installation\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\Exercices - installation\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\Exercices - installation\ConsoleApplication3\obj\Debug\table de multiplication.csprojResolveAssemblyReference.cache
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\Exercices - installation\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\Exercices - installation\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb

@@ -1,0 +1,6 @@
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\Exercices - installation\multiples\bin\Debug\multiples.exe.config
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\Exercices - installation\multiples\bin\Debug\multiples.exe
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\Exercices - installation\multiples\bin\Debug\multiples.pdb
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\Exercices - installation\multiples\obj\Debug\multiples.exe
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\Exercices - installation\multiples\obj\Debug\multiples.pdb
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\Exercices - installation\multiples\obj\Debug\multiples.csprojResolveAssemblyReference.cache

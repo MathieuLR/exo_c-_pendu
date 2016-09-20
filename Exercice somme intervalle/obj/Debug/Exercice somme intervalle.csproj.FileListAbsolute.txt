@@ -1,0 +1,5 @@
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\Exercices - installation\Exercice somme intervalle\bin\Debug\Exercice somme intervalle.exe.config
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\Exercices - installation\Exercice somme intervalle\bin\Debug\Exercice somme intervalle.exe
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\Exercices - installation\Exercice somme intervalle\bin\Debug\Exercice somme intervalle.pdb
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\Exercices - installation\Exercice somme intervalle\obj\Debug\Exercice somme intervalle.exe
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\Exercices - installation\Exercice somme intervalle\obj\Debug\Exercice somme intervalle.pdb

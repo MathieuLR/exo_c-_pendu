@@ -1,0 +1,6 @@
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\Exercices - installation\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\Exercices - installation\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\Exercices - installation\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\Exercices - installation\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\Exercices - installation\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\Exercices - installation\ConsoleApplication2\obj\Debug\Nombre_magique.csprojResolveAssemblyReference.cache

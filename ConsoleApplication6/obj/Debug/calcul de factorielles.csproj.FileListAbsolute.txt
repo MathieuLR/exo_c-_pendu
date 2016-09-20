@@ -1,0 +1,6 @@
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\Exercices - installation\ConsoleApplication6\bin\Debug\ConsoleApplication6.exe.config
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\Exercices - installation\ConsoleApplication6\bin\Debug\ConsoleApplication6.exe
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\Exercices - installation\ConsoleApplication6\bin\Debug\ConsoleApplication6.pdb
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\Exercices - installation\ConsoleApplication6\obj\Debug\calcul de factorielles.csprojResolveAssemblyReference.cache
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\Exercices - installation\ConsoleApplication6\obj\Debug\ConsoleApplication6.exe
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\Exercices - installation\ConsoleApplication6\obj\Debug\ConsoleApplication6.pdb

@@ -1,0 +1,6 @@
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\Exercices - installation\exercice 8\bin\Debug\exercice 8.exe.config
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\Exercices - installation\exercice 8\bin\Debug\exercice 8.exe
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\Exercices - installation\exercice 8\bin\Debug\exercice 8.pdb
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\Exercices - installation\exercice 8\obj\Debug\Parite.csprojResolveAssemblyReference.cache
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\Exercices - installation\exercice 8\obj\Debug\exercice 8.exe
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\Exercices - installation\exercice 8\obj\Debug\exercice 8.pdb

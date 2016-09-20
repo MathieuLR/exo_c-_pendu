@@ -1,0 +1,6 @@
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\Exercices - installation\Exercice nombre de voyelle\bin\Debug\Exercice nombre de voyelle.exe.config
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\Exercices - installation\Exercice nombre de voyelle\bin\Debug\Exercice nombre de voyelle.exe
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\Exercices - installation\Exercice nombre de voyelle\bin\Debug\Exercice nombre de voyelle.pdb
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\Exercices - installation\Exercice nombre de voyelle\obj\Debug\Exercice nombre de voyelle.csprojResolveAssemblyReference.cache
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\Exercices - installation\Exercice nombre de voyelle\obj\Debug\Exercice nombre de voyelle.exe
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\Exercices - installation\Exercice nombre de voyelle\obj\Debug\Exercice nombre de voyelle.pdb

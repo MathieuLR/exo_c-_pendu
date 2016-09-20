@@ -1,0 +1,6 @@
+c:\users\afpa\documents\visual studio 2015\Projects\Exercices - installation\Exercice2\bin\Debug\Exercice2.exe.config
+c:\users\afpa\documents\visual studio 2015\Projects\Exercices - installation\Exercice2\bin\Debug\Exercice2.exe
+c:\users\afpa\documents\visual studio 2015\Projects\Exercices - installation\Exercice2\bin\Debug\Exercice2.pdb
+c:\users\afpa\documents\visual studio 2015\Projects\Exercices - installation\Exercice2\obj\Debug\Exercice2.csprojResolveAssemblyReference.cache
+c:\users\afpa\documents\visual studio 2015\Projects\Exercices - installation\Exercice2\obj\Debug\Exercice2.exe
+c:\users\afpa\documents\visual studio 2015\Projects\Exercices - installation\Exercice2\obj\Debug\Exercice2.pdb

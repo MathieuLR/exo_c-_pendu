@@ -1,0 +1,6 @@
+c:\users\afpa\documents\visual studio 2015\Projects\Exercices - installation\premiere partie\bin\Debug\premiere partie.exe.config
+c:\users\afpa\documents\visual studio 2015\Projects\Exercices - installation\premiere partie\bin\Debug\premiere partie.exe
+c:\users\afpa\documents\visual studio 2015\Projects\Exercices - installation\premiere partie\bin\Debug\premiere partie.pdb
+c:\users\afpa\documents\visual studio 2015\Projects\Exercices - installation\premiere partie\obj\Debug\premiere partie.exe
+c:\users\afpa\documents\visual studio 2015\Projects\Exercices - installation\premiere partie\obj\Debug\premiere partie.pdb
+c:\users\afpa\documents\visual studio 2015\Projects\Exercices - installation\premiere partie\obj\Debug\premiere partie.csprojResolveAssemblyReference.cache

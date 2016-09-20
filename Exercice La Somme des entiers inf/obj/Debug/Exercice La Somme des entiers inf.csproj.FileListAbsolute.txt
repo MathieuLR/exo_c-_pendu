@@ -1,0 +1,6 @@
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\Exercices - installation\Exercice La Somme des entiers inf\bin\Debug\Exercice La Somme des entiers inf.exe.config
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\Exercices - installation\Exercice La Somme des entiers inf\bin\Debug\Exercice La Somme des entiers inf.exe
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\Exercices - installation\Exercice La Somme des entiers inf\bin\Debug\Exercice La Somme des entiers inf.pdb
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\Exercices - installation\Exercice La Somme des entiers inf\obj\Debug\Exercice La Somme des entiers inf.csprojResolveAssemblyReference.cache
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\Exercices - installation\Exercice La Somme des entiers inf\obj\Debug\Exercice La Somme des entiers inf.exe
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\Exercices - installation\Exercice La Somme des entiers inf\obj\Debug\Exercice La Somme des entiers inf.pdb

@@ -1,0 +1,5 @@
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\Exercices - installation\Exo tableau majorite\bin\Debug\Exo tableau majorite.exe.config
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\Exercices - installation\Exo tableau majorite\bin\Debug\Exo tableau majorite.exe
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\Exercices - installation\Exo tableau majorite\bin\Debug\Exo tableau majorite.pdb
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\Exercices - installation\Exo tableau majorite\obj\Debug\Exo tableau majorite.exe
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\Exercices - installation\Exo tableau majorite\obj\Debug\Exo tableau majorite.pdb

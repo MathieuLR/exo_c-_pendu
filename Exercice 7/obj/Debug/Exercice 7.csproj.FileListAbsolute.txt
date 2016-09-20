@@ -1,0 +1,6 @@
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\Exercices - installation\Exercice 7\bin\Debug\Exercice 7.exe.config
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\Exercices - installation\Exercice 7\bin\Debug\Exercice 7.exe
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\Exercices - installation\Exercice 7\bin\Debug\Exercice 7.pdb
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\Exercices - installation\Exercice 7\obj\Debug\Exercice 7.exe
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\Exercices - installation\Exercice 7\obj\Debug\Exercice 7.pdb
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\Exercices - installation\Exercice 7\obj\Debug\Exercice 7.csprojResolveAssemblyReference.cache

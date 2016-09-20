@@ -1,0 +1,6 @@
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\Exercices - installation\Exercice moyenne\bin\Debug\Exercice moyenne.exe.config
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\Exercices - installation\Exercice moyenne\bin\Debug\Exercice moyenne.exe
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\Exercices - installation\Exercice moyenne\bin\Debug\Exercice moyenne.pdb
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\Exercices - installation\Exercice moyenne\obj\Debug\Exercice moyenne.exe
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\Exercices - installation\Exercice moyenne\obj\Debug\Exercice moyenne.pdb
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\Exercices - installation\Exercice moyenne\obj\Debug\Exercice moyenne.csprojResolveAssemblyReference.cache

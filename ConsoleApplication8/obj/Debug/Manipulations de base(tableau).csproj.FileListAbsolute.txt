@@ -1,0 +1,6 @@
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\Exercices - installation\ConsoleApplication8\bin\Debug\ConsoleApplication8.exe.config
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\Exercices - installation\ConsoleApplication8\bin\Debug\ConsoleApplication8.exe
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\Exercices - installation\ConsoleApplication8\bin\Debug\ConsoleApplication8.pdb
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\Exercices - installation\ConsoleApplication8\obj\Debug\Manipulations de base(tableau).csprojResolveAssemblyReference.cache
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\Exercices - installation\ConsoleApplication8\obj\Debug\ConsoleApplication8.exe
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\Exercices - installation\ConsoleApplication8\obj\Debug\ConsoleApplication8.pdb

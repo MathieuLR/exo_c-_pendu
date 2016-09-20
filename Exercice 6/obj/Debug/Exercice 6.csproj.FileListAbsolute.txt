@@ -1,0 +1,6 @@
+c:\users\afpa\documents\visual studio 2015\Projects\Exercices - installation\Exercice 6\obj\Debug\Exercice 6.csprojResolveAssemblyReference.cache
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\Exercices - installation\Exercice 6\bin\Debug\Exercice 6.exe.config
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\Exercices - installation\Exercice 6\bin\Debug\Exercice 6.exe
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\Exercices - installation\Exercice 6\bin\Debug\Exercice 6.pdb
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\Exercices - installation\Exercice 6\obj\Debug\Exercice 6.exe
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\Exercices - installation\Exercice 6\obj\Debug\Exercice 6.pdb

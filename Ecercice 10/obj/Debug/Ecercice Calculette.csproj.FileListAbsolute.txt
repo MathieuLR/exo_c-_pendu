@@ -1,0 +1,6 @@
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\Exercices - installation\Ecercice 10\bin\Debug\Ecercice 10.exe.config
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\Exercices - installation\Ecercice 10\bin\Debug\Ecercice 10.exe
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\Exercices - installation\Ecercice 10\bin\Debug\Ecercice 10.pdb
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\Exercices - installation\Ecercice 10\obj\Debug\Ecercice Calculette.csprojResolveAssemblyReference.cache
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\Exercices - installation\Ecercice 10\obj\Debug\Ecercice 10.exe
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\Exercices - installation\Ecercice 10\obj\Debug\Ecercice 10.pdb

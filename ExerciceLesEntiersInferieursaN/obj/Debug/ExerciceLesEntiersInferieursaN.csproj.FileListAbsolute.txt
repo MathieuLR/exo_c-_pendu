@@ -1,0 +1,6 @@
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\Exercices - installation\ExerciceLesEntiersInferieursaN\bin\Debug\ExerciceLesEntiersInferieursaN.exe.config
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\Exercices - installation\ExerciceLesEntiersInferieursaN\bin\Debug\ExerciceLesEntiersInferieursaN.exe
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\Exercices - installation\ExerciceLesEntiersInferieursaN\bin\Debug\ExerciceLesEntiersInferieursaN.pdb
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\Exercices - installation\ExerciceLesEntiersInferieursaN\obj\Debug\ExerciceLesEntiersInferieursaN.exe
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\Exercices - installation\ExerciceLesEntiersInferieursaN\obj\Debug\ExerciceLesEntiersInferieursaN.pdb
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\Exercices - installation\ExerciceLesEntiersInferieursaN\obj\Debug\ExerciceLesEntiersInferieursaN.csprojResolveAssemblyReference.cache

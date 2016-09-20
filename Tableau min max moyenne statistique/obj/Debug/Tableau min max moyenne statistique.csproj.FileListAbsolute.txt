@@ -1,0 +1,6 @@
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\Exercices - installation\Tableau min max moyenne statistique\bin\Debug\Tableau min max moyenne statistique.exe.config
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\Exercices - installation\Tableau min max moyenne statistique\bin\Debug\Tableau min max moyenne statistique.exe
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\Exercices - installation\Tableau min max moyenne statistique\bin\Debug\Tableau min max moyenne statistique.pdb
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\Exercices - installation\Tableau min max moyenne statistique\obj\Debug\Tableau min max moyenne statistique.csprojResolveAssemblyReference.cache
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\Exercices - installation\Tableau min max moyenne statistique\obj\Debug\Tableau min max moyenne statistique.exe
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\Exercices - installation\Tableau min max moyenne statistique\obj\Debug\Tableau min max moyenne statistique.pdb

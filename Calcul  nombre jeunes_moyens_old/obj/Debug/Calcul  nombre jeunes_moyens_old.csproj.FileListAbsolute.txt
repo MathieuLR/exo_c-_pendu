@@ -1,0 +1,6 @@
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\Exercices - installation\Calcul  nombre jeunes_moyens_old\bin\Debug\Calcul  nombre jeunes_moyens_old.exe.config
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\Exercices - installation\Calcul  nombre jeunes_moyens_old\bin\Debug\Calcul  nombre jeunes_moyens_old.exe
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\Exercices - installation\Calcul  nombre jeunes_moyens_old\bin\Debug\Calcul  nombre jeunes_moyens_old.pdb
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\Exercices - installation\Calcul  nombre jeunes_moyens_old\obj\Debug\Calcul  nombre jeunes_moyens_old.exe
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\Exercices - installation\Calcul  nombre jeunes_moyens_old\obj\Debug\Calcul  nombre jeunes_moyens_old.pdb
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\Exercices - installation\Calcul  nombre jeunes_moyens_old\obj\Debug\Calcul  nombre jeunes_moyens_old.csprojResolveAssemblyReference.cache

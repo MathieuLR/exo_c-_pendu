@@ -1,0 +1,6 @@
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\Exercices - installation\min max\bin\Debug\min max.exe.config
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\Exercices - installation\min max\obj\Debug\min max.csprojResolveAssemblyReference.cache
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\Exercices - installation\min max\bin\Debug\min max.exe
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\Exercices - installation\min max\bin\Debug\min max.pdb
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\Exercices - installation\min max\obj\Debug\min max.exe
+C:\Users\afpa\Documents\Visual Studio 2015\Projects\Exercices - installation\min max\obj\Debug\min max.pdb
