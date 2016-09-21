@@ -115,8 +115,8 @@ namespace exo_pendu
             {
                 Console.WriteLine("Nom du joueur 1");
                 joueur1 = Console.ReadLine();
-                string lettresok = "^[a-zA-Z] + (([\'\\,\\.\\-][a-zA-Z])?[a-zA-Z]*)*$";
-                if (!Regex.IsMatch(joueur1, @lettresok))
+                string lettresok = @"^[a-z]{2,50}$";
+                if (Regex.IsMatch(joueur1, @lettresok))
                 {
                     validationjoueur1 = true;
                 }
@@ -128,8 +128,8 @@ namespace exo_pendu
             {
                 Console.WriteLine("Nom du joueur 2");
                 joueur2 = Console.ReadLine();
-                string lettresok = "^[a-zA-Z] + (([\'\\,\\.\\-][a-zA-Z])?[a-zA-Z]*)*$";
-                if (!Regex.IsMatch(joueur2, @lettresok))
+                string lettresok = @"^[a-z]{2,50}$";
+                if (Regex.IsMatch(joueur2, @lettresok))
                 {
                     validationjoueur2 = true;
                 }
@@ -142,14 +142,15 @@ namespace exo_pendu
             {
                 Console.WriteLine(joueur1 + " Saisissez un mot de dix lettres ou moins");
                 MotATrouver = Console.ReadLine();
-                Console.Clear();
-                string lettresok = "^[a-zA-Z] + (([\'\\,\\.\\-][a-zA-Z])?[a-zA-Z]*)*$";
-                if (!Regex.IsMatch(MotATrouver, @lettresok))
+               
+                string lettresok = @"^[a-z]{1,10}$";
+                if (Regex.IsMatch(MotATrouver, @lettresok))
                 {
                     validationmotsecret = true;
+                    Console.Clear();
                 }
                 else
-                    Console.WriteLine("Saisissez un nom valide (a-Z)");
+                    Console.WriteLine("Saisissez un mot valide (a-Z) et de moins de dix lettres");
             }
             while (validationmotsecret == false);
 
